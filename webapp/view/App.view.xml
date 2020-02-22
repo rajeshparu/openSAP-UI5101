@@ -1,0 +1,8 @@
+<mvc:View displayBlock="true" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m">
+	<Carousel>
+		<pages>
+			<Image src="http://www.quoteambition.com/wp-content/uploads/2017/04/deep-meaningful-quote-work.jpg" height="600px"/>
+			<Image src="http://www.quotesforbros.com/wp-content/uploads/2015/08/theory-Einstein-Quotes.png" height="600px"/>
+		</pages>
+	</Carousel>
+</mvc:View>
